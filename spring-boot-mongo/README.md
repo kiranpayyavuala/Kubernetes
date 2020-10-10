@@ -9,7 +9,7 @@ Clone code from github:
     docker build -t kiranpayyavuala/mykubeimages:<version1> .
     docker push kiranpayyavuala/mykubeimages:<version1>
     
-Deployment Kubernetes Tomcat web Application
+Deployment Kubernetes SpringBoot + MongoDB Application
 ------
     cd spring-boot-mongo
 
