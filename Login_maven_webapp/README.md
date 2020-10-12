@@ -1,10 +1,10 @@
 Clone code from github:
--------
-    git clone https://github.com/kiranpayyavuala/Login_maven_webapp.git
+----------------------
+    git clone https://github.com/kiranpayyavuala/Kubernetes.git
     cd Login_maven_webapp
     
 Deployment Kubernetes Tomcat web Application
-------
+--------------------------------------------
     kubectl apply -f Deployment/Tomcat-Deployment.yml
     kubectl apply -f Deployment/Tomcat-LoadBalancer.yml
     
