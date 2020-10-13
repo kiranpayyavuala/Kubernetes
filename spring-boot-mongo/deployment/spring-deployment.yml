@@ -1,4 +1,4 @@
-#Create one replica of application basically creating one pod using image that pushed to DockerHub mbaurnwal546/spring-boot-mongo
+#Create one replica of application basically creating one pod using image that already in my DockerHub kiranpayyavuala/mykubeimages:v1
 apiVersion: v1
 kind: ReplicationController
 metadata:
